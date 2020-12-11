@@ -93,7 +93,7 @@ device 12 : USB output sepeaker
 When I take device 12 for RtOutput. It didn't work. Didn't play through JBE Pebbles.  
 Device 0 and device 5(monitor speaker) worked.    
 
-But when I set device 12 as default output and use device 13(defaukt) and device 0.   
+But when I set device 12 as default output and use device 13(default) and device 0.   
 Both speaker played simultaneously.  
 
 
