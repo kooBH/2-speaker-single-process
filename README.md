@@ -90,7 +90,7 @@ Samplerates : 4000 5512 8000 9600 11025 16000 22050 32000 44100 48000 88200 9600
 device 0 : analog output speaker    
 device 12 : USB output sepeaker   
 
-When I take device 12 for RtOutput. It didn't work. Didn't play throuth JBE Pebbles.  
+When I take device 12 for RtOutput. It didn't work. Didn't play through JBE Pebbles.  
 Device 0 and device 5(monitor speaker) worked.    
 
 But when I set device 12 as default output and use device 13(defaukt) and device 0.   
