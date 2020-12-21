@@ -95,6 +95,7 @@ Device 0 and device 5(monitor speaker) worked.
 
 But when I set device 12 as default output and use device 13(default) and device 0.   
 Both speaker played simultaneously.  
-
-
+  
+---  
+Later, it worked without using default device number  
 
