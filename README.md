@@ -1,6 +1,8 @@
 # 2-speaker-single-process
-Can I use 2 speakers in a single process ?   
-=> Yes. But not clear.  
+Can I use 2 speakers in a single process ?      
+=>Can use N speakers and M Microphones in a single process.  
+But need to use multiple audio interfaces.  
+
 ```
 device = 0
 name = hw:HDA Intel PCH,0
